@@ -1,5 +1,6 @@
 
 change #7 (master)
+change #6 (develop)
 change #5 (develop)
 ——after merge—
 
